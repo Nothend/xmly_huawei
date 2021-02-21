@@ -58,7 +58,7 @@ if "XMLY_SPEED_COOKIE" in os.environ:
 devices = []
 notify_time = 23                            # 通知时间,24小时制,默认19
 XMLY_ACCUMULATE_TIME = 1                    # 希望刷时长的,此处置1,默认打开;关闭置0
-UserAgent = "Mozilla/5.0 (Linux; Android 10; EML-AL00; HMSCore 5.1.1.303; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.7.303 Mobile Safari/537.36"
+UserAgent = "Mozilla/5.0 (Linux; Android 10; EML-AL00 Build/HUAWEIEML-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045514 Mobile Safari/537.36"
 # 非iOS设备的需要的自行修改,自己抓包 与cookie形式类似
 
 
